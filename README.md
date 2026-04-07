@@ -47,8 +47,6 @@ student-performance-prediction/
 │── notebooks/
 │── model/
 │── app.py
-│── train.py
-│── requirements.txt
 │── README.md
 ```
 
@@ -88,16 +86,17 @@ The project includes a user-friendly web interface built with Streamlit where us
 
 ## 📈 Results
 
-* Logistic Regression outperformed Random Forest in classification accuracy
+* Decision Tree outperformed Random Forest in classification accuracy
 * Model evaluation was performed using standard metrics
 
-*(You can add accuracy, precision, recall here if available)*
 
 ---
 
 ## 📸 Screenshots
 
-*(Add screenshots of your Streamlit app here)*
+*<img width="1119" height="911" alt="Screenshot 2026-04-07 220422" src="https://github.com/user-attachments/assets/4376a9f2-8b13-485e-a441-9295e6180814" />
+<img width="1041" height="854" alt="image" src="https://github.com/user-attachments/assets/a5cd2266-ee22-4a9c-a7a7-6a252ba80c0e" />
+*
 
 ---
 
@@ -112,7 +111,7 @@ The project includes a user-friendly web interface built with Streamlit where us
 
 ## 👨‍💻 Author
 
-Your Name
+Arti Kumari
 
 ---
 
