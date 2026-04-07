@@ -14,7 +14,7 @@ The project involves data preprocessing, model building, evaluation, and deploym
 * Feature selection and transformation
 * Model training using:
 
-  * Logistic Regression
+  * Decision Tree
   * Random Forest Classifier
 * Model comparison and evaluation
 * Interactive web application for real-time predictions
@@ -23,10 +23,10 @@ The project involves data preprocessing, model building, evaluation, and deploym
 
 ## 🧠 Machine Learning Models Used
 
-* **Logistic Regression** (Best Performing Model ✅)
+* **Decision Tree** (Best Performing Model ✅)
 * Random Forest Classifier
 
-Logistic Regression achieved better performance compared to Random Forest based on evaluation metrics.
+Decision Tree achieved better performance compared to Random Forest based on evaluation metrics.
 
 ---
 
